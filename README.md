@@ -1,5 +1,4 @@
 ## Hi there 👋I Am Muhammad Hammad Currently Learning Web And Mobile App Development.
-<h1 align="center">Hi 👋, I'm muhammad hammad</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-hammad-19&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-hammad-19" /> </p>
 
 - 🔭 I’m currently working on **web development**
