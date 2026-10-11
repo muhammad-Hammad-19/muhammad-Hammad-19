@@ -2,11 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-hammad-19&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-hammad-19" /> </p>
 
 - 🔭 I’m currently working on **web development**
-
-- 🌱 I’m currently learning **Html.Css.javascript**
-
-- 💬 Ask me about **Html.Css**
-
+- 
 - 📫 How to reach me **mh03212868@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
